@@ -1,3 +1,3 @@
 # name-tbd
 
-Hosted on https://tisbeduplatform.herokuapp.com
+Hosted on https://tisbeduproject.herokuapp.com
